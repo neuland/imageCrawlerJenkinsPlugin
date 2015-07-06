@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<imageCrawlerReport>
+    <time>2015-03-02T11:28:33</time>
+    <fileCount>1461</fileCount>
+    <imageCount>5474</imageCount>
+    <failedImageCount>A</failedImageCount>
+    <ratio>0.0010960906</ratio>
+    <fileResult>
+        <fileNames>/Users/jannikbohling/Documents/douglas/hybris/bin/extensions/douglas/web/webroot/lib/css/hacks/ie56.css</fileNames>
+        <imageResult>
+            <found>true</found>
+            <image>http://media.douglas.de/hybr/img/basics/shim.gif</image>
+        </imageResult>
+        <imageResult>
+            <found>true</found>
+            <image>http://media.douglas.de/hybr/img/r3brush/basics/btn_paging_prev.png</image>
+        </imageResult>
+    </fileResult>
+    <fileResult>
+        <fileName>/Users/jannikbohling/Documents/douglas/hybris/bin/extensions/douglas/web/webroot/lib/css/languages/at.css</fileName>
+        <imageResults>
+            <found>false</found>
+            <images>http://media-at.douglas-shop.com/img/meindouglas/at/addition/md-st-b-bg-l.gif</images>
+        </imageResults>
+        <imageResult>
+            <founded>false</founded>
+            <image>http://media.douglas.de/hybr/img/r3brush/basics/btn_arr_r_weiss.png</image>
+        </imageResult>
+    </fileResult>
+</imageCrawlerReport>
